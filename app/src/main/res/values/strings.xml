@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">EPdeco</string>
+    <string name="dialog_title">CalDecorate</string>
+    <string name="dialog_text">ผู้สนับสนุนหลักอย่างเป็นทางการ บริษัท อีพี เดคคอร์ จำกัด  Address: Hwy Chiang Mai-Lampang Frontage Rd, Mueang Chiang Mai District, Chiang Mai 50300
+Phone:053 406 394</string>
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">ตั้งค่าขั้นสูง</string>
+<string name="action_settings1">ตั้งค่าขั้นสูงม่านจีบ</string>
+<string name="man">คู่มือการใช้งาน</string>
+
+<string name="action_search">search</string>
+<string name="action_compose">compose</string>
+
+<string name="title_activity_curtain">curtain</string>
+<string name="title_activity_setting">setting</string>
+<string name="title_activity_cal_length">CalLength</string>
+<string name="title_activity_cal_curtain">CalCurtain</string>
+<string name="title_activity_calcost">calcost</string>
+<string name="title_activity_cal_curtain2pup">CalCurtain2pup</string>
+<string name="title_activity_cost1">cost1</string>
+<string name="title_activity_manmon">Manmon</string>
+<string name="title_activity_mooli">mooli</string>
+<string name="title_activity_manbupsang">manbupsang</string>
+<string name="title_activity_wall_paper">WallPaper</string>
+<string name="title_activity_setting_pup">settingPup</string>
+<string name="title_activity_chagkanhong">Chagkanhong</string>
+<string name="title_activity_cost2">cost2</string>
+<string name="title_activity_mooli_mai">mooliMai</string>
+<string name="title_activity_mooli_alu">mooliAlu</string>
+<string name="title_activity_cost1_2">cost1_2</string>
+<string name="title_activity_cost2_2">cost2_2</string>
+<string name="title_activity_cost2_3">cost2_3</string>
+<string name="title_activity_cost2_4">cost2_4</string>
+<string name="title_activity_cost_wallpaper">costWallpaper</string>
+<string name="title_activity_calcurtain_mtaki">calcurtainMtaki</string>
+<string name="title_activity_setting_mtaki">settingMtaki</string>
+<string name="banner_ad_unit_id">ca-app-pub-6053364159266545/9847224113</string>
+
+<string name="titleMain">หน้าหลัก</string>
+<string name="bambooblind">มู่ลี่ไม้ / มู่ลี่โฟมวู๊ด</string>
+<string name="curtain">ผ้าม่าน</string>
+<string name="rollerblind">ม่านม้วน</string>
+<string name="roompatition">ฉากกั้นห้อง</string>
+<string name="venetianbline">มู่ลี่อลูมิเนียม</string>
+<string name="wallpeper">วอลเปเปอร์</string>
+
+<string name="costwall">ค่าใช้จ่ายวอลเปเปอร์</string>
+<string name="costfer">ค่าใช้จ่ายผ้าบุเฟอร์นิเจอร์์</string>
+<string name="costcurtain">ค่าใช้จ่ายผ้าม่าน</string>
+
+<string name="pleated">ผ้าม่านจีบ</string>
+<string name="eyelet">ผ้าม่านตาไก่</string>
+<string name="romam">ผ้าม่านพับ</string>
+
+<string name="setting_pleated">ตั้งค่าม่านจีบ</string>
+<string name="setting_eyelte">ตั้งค่าม่านตาไก่</string>
+<string name="setting_roman">ตั้งค่าม่านพับ</string>
+
+<string name="title_activity_tab_design">tabDesign</string>
+<string name="title_section1">Section 1</string>
+<string name="title_section2">Section 2</string>
+<string name="title_section3">Section 3</string>
+<string name="title_activity_tab1">Tab1</string>
+<string name="title_activity_first_time">firstTime</string>
+
+
+
+<string-array name="jazzy_effects">
+    <item>Standard</item>
+    <item>Tablet</item>
+    <item>CubeIn</item>
+    <item>CubeOut</item>
+    <item>FlipVertical</item>
+    <item>FlipHorizontal</item>
+    <item>Stack</item>
+    <item>ZoomIn</item>
+    <item>ZoomOut</item>
+    <item>RotateUp</item>
+    <item>RotateDown</item>
+    <item>Accordion</item>
+</string-array>
+<string name="title_activity_trans_unit">transUnit</string>
+<string name="title_activity_tab3">Tab3</string>
+
+<string name="title_activity_eyelet">Eyelet</string>
+<string name="title_activity_pleated">Pleated</string>
+<string name="title_activity_roman">Roman</string>
+
+<string name="cal">คำนวนค่า</string>
+<string name="setting">หน้าตั้งค่า</string>
+<string name="title_activity_sqlite">sqlite</string>
+<string name="title_activity_pillows">Pillows</string>
+
+
+</resources>
+

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="compuny">
+        <item>ผ้าม่านเมืองทอง</item>
+        <item>ผ้าม่านเมืองเงิน</item>
+        <item>ผ้าม่านเมืองทองแดง</item>
+    </string-array>
+    <string-array name="set_i">
+        <item>0.0</item>
+        <item>5.0</item>
+        <item>10.0</item>
+        <item>15.0</item>
+        <item>20.0</item>
+        <item>25.0</item>
+        <item>30.0</item>
+        <item>35.0</item>
+        <item>40.0</item>
+        <item>45.0</item>
+        <item>50.0</item>
+        <item>55.0</item>
+        <item>60.0</item>
+        <item>65.0</item>
+        <item>70.0</item>
+        <item>75.0</item>
+        <item>80.0</item>
+        <item>85.0</item>
+        <item>90.0</item>
+        <item>95.0</item>
+        <item>100.0</item>
+    </string-array>
+
+    <string-array name="title_curtaintab">
+        <item>คำนวน</item>
+        <item>หน้าตั้งค่า</item>
+    </string-array>
+
+    <string-array name="list_of_company">
+        <item>หนุมานคาบผ้า</item>
+        <item>ม่านครองพิภพ</item>
+        <item>ม่านนานปี</item>
+        <item>ม่านมัพมัย</item>
+        <item>ม่านฟ้าไท</item>
+        <item>ม่านไหมแน่น</item>
+        <item>ม่านมัยสัส</item>
+        <item>ม่านมานม่าน</item>
+        <item>american</item>
+        <item>alcaline</item>
+        <item>amplitor</item>
+    </string-array>
+
+
+</resources>
